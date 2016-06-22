@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "812574265960",
+    "firebase_url": "https://q8-online.firebaseio.com",
+    "project_id": "q8-online",
+    "storage_bucket": "q8-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812574265960:android:4a61fc2c50bc0327",
+        "android_client_info": {
+          "package_name": "com.q8online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812574265960-khmn5ffgkqtu40at0j06e7i2j21tkhsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLOcdDgO5FbrB_5tKot5muEbIDCY4WtHI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
